@@ -7,6 +7,7 @@ public class Ejemplo{
         System.out.println("Ejemplo 2");
 
 
+		System.out.println("otra linea");
       }
 
 
